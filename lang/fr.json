@@ -1,0 +1,58 @@
+{
+  "nav_about": "À propos",
+  "nav_services": "Services",
+  "nav_work": "Réalisations",
+  "nav_projects": "Projets",
+  "nav_contact": "Contact",
+
+  "hero_tag": "Agence Marketing & Solutions Digitales",
+  "hero_title": "Nous construisons votre présence digitale<br>et transformons vos idées en résultats",
+  "hero_desc": "De la création de votre site ou boutique, au marketing, à l'acquisition de clients et au suivi des résultats — des solutions digitales intégrées pour chaque projet.",
+  "hero_cta1": "Démarrer votre projet",
+  "hero_cta2": "Voir nos réalisations",
+
+  "about_eyebrow": "À propos",
+  "about_title": "Lahza Media — Votre partenaire digital",
+  "about_p1": "Lahza Media est une agence spécialisée en marketing et solutions digitales. Nous offrons des services professionnels et fiables qui aident les entreprises à bâtir une présence digitale solide et à atteindre leurs clients avec des résultats concrets.",
+  "about_p2": "Nous ne proposons pas des services isolés — nous comprenons les besoins de chaque projet et fournissons la solution adaptée : de la création du site ou de la boutique, au marketing et au suivi des résultats.",
+  "about_p3": "Nous avons travaillé avec des clients de secteurs variés, les aidant à développer leur présence digitale et à obtenir des résultats tangibles.",
+  "about_goal_label": "Notre objectif",
+  "about_goal_text": "Être un partenaire digital fiable — de l'idée et l'exécution au marketing et à la croissance.",
+
+  "services_eyebrow": "Services",
+  "services_title": "Solutions digitales intégrées",
+  "services_list": [
+    "Conception et développement de sites web",
+    "Création de boutiques e-commerce",
+    "Optimisation pour les moteurs de recherche (SEO)",
+    "Gestion des réseaux sociaux",
+    "Campagnes publicitaires digitales",
+    "Production vidéo et création de contenu",
+    "Création et développement de plateformes digitales",
+    "Gestion et exploitation de boutiques en ligne",
+    "Création de contenu et marketing digital"
+  ],
+
+  "work_eyebrow": "Nos réalisations",
+  "work_title": "Galerie de projets",
+
+  "projects_eyebrow": "Projets réalisés",
+  "projects_title": "Visiter les sites",
+  "projects_list": [
+    { "name": "Rabaq", "desc": "Plateforme digitale intégrée", "url": "https://rabaq.co/" },
+    { "name": "Sahem", "desc": "Boutique e-commerce professionnelle", "url": "https://sahem.shop/" },
+    { "name": "Vaneersa", "desc": "Solutions digitales & e-commerce", "url": "https://vaneersa.com/ar" },
+    { "name": "Lajoie", "desc": "Boutique e-commerce", "url": "https://lajoie7.com/" },
+    { "name": "KidsRUs", "desc": "Plateforme de divertissement pour enfants", "url": "https://kidsrus.fun/" }
+  ],
+
+  "contact_eyebrow": "Contact",
+  "contact_title": "Démarrons votre projet",
+  "contact_phone": "Téléphone",
+  "contact_whatsapp": "WhatsApp",
+  "contact_facebook": "Facebook",
+  "contact_instagram": "Instagram",
+  "contact_tiktok": "TikTok",
+
+  "footer_copy": "© 2025 Lahza Media. Tous droits réservés."
+}
